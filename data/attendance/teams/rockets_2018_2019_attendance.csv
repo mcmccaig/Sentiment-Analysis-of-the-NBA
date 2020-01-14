@@ -1,0 +1,83 @@
+,index,Date,Start (ET),Visitor/Neutral,PTS,Home/Neutral,PTS.1,Unnamed: 6,Unnamed: 7,Attend.,Notes,Capacity,Attendance Ratio
+0,8,2018-10-17,8:00p,New Orleans Pelicans,131,Houston Rockets,112,Box Score,,18055,,18055,1.0
+1,34,2018-10-20,10:30p,Houston Rockets,124,Los Angeles Lakers,115,Box Score,,18997,,18997,1.0
+2,38,2018-10-21,9:00p,Houston Rockets,112,Los Angeles Clippers,115,Box Score,,16149,,19068,0.8469162995594713
+3,56,2018-10-24,8:00p,Utah Jazz,100,Houston Rockets,89,Box Score,,18055,,18055,1.0
+4,69,2018-10-26,8:00p,Los Angeles Clippers,133,Houston Rockets,113,Box Score,,18055,,18055,1.0
+5,100,2018-10-30,8:00p,Portland Trail Blazers,104,Houston Rockets,85,Box Score,,18055,,18055,1.0
+6,117,2018-11-02,7:30p,Houston Rockets,119,Brooklyn Nets,111,Box Score,,14013,,17732,0.7902661854274757
+7,128,2018-11-03,8:00p,Houston Rockets,96,Chicago Bulls,88,Box Score,,20505,,20917,0.9803031027393986
+8,140,2018-11-05,7:00p,Houston Rockets,98,Indiana Pacers,94,Box Score,,14735,,17923,0.8221279919656308
+9,162,2018-11-08,8:00p,Houston Rockets,80,Oklahoma City Thunder,98,Box Score,,18203,,18203,1.0
+10,180,2018-11-10,8:30p,Houston Rockets,89,San Antonio Spurs,96,Box Score,,18354,,18418,0.9965251384515148
+11,184,2018-11-11,7:00p,Indiana Pacers,103,Houston Rockets,115,Box Score,,18055,,18055,1.0
+12,199,2018-11-13,9:00p,Houston Rockets,109,Denver Nuggets,99,Box Score,,16741,,19520,0.8576331967213114
+13,212,2018-11-15,8:00p,Golden State Warriors,86,Houston Rockets,107,Box Score,,18055,,18055,1.0
+14,230,2018-11-17,8:00p,Sacramento Kings,112,Houston Rockets,132,Box Score,,18055,,18055,1.0
+15,257,2018-11-21,8:00p,Detroit Pistons,124,Houston Rockets,126,Box Score,,18055,,18055,1.0
+16,266,2018-11-23,7:00p,Houston Rockets,111,Detroit Pistons,116,Box Score,OT,17268,,20332,0.8493015935471179
+17,278,2018-11-24,7:30p,Houston Rockets,108,Cleveland Cavaliers,117,Box Score,,19432,,19432,1.0
+18,295,2018-11-26,7:00p,Houston Rockets,131,Washington Wizards,135,Box Score,OT,16872,,20356,0.8288465317351149
+19,308,2018-11-28,8:00p,Dallas Mavericks,128,Houston Rockets,108,Box Score,,18055,,18055,1.0
+20,325,2018-11-30,8:00p,Houston Rockets,136,San Antonio Spurs,105,Box Score,,18354,,18418,0.9965251384515148
+21,333,2018-12-01,8:00p,Chicago Bulls,105,Houston Rockets,121,Box Score,,18055,,18055,1.0
+22,347,2018-12-03,8:00p,Houston Rockets,91,Minnesota Timberwolves,103,Box Score,,13834,,18978,0.7289493097270524
+23,366,2018-12-06,10:30p,Houston Rockets,91,Utah Jazz,118,Box Score,,18306,,18306,1.0
+24,377,2018-12-08,6:00p,Houston Rockets,104,Dallas Mavericks,107,Box Score,,20254,,19200,1.0
+25,401,2018-12-11,8:00p,Portland Trail Blazers,104,Houston Rockets,111,Box Score,,18055,,18055,1.0
+26,415,2018-12-13,8:00p,Los Angeles Lakers,111,Houston Rockets,126,Box Score,,18055,,18055,1.0
+27,431,2018-12-15,8:00p,Houston Rockets,105,Memphis Grizzlies,97,Box Score,,16777,,17794,0.942845903113409
+28,444,2018-12-17,8:00p,Utah Jazz,97,Houston Rockets,102,Box Score,,18055,,18055,1.0
+29,460,2018-12-19,8:00p,Washington Wizards,118,Houston Rockets,136,Box Score,,18055,,18055,1.0
+30,466,2018-12-20,8:00p,Houston Rockets,99,Miami Heat,101,Box Score,,19600,,19600,1.0
+31,481,2018-12-22,8:00p,San Antonio Spurs,101,Houston Rockets,108,Box Score,,18055,,18055,1.0
+32,497,2018-12-25,3:00p,Oklahoma City Thunder,109,Houston Rockets,113,Box Score,,18055,,18055,1.0
+33,511,2018-12-27,8:00p,Boston Celtics,113,Houston Rockets,127,Box Score,,18055,,18055,1.0
+34,527,2018-12-29,7:00p,Houston Rockets,108,New Orleans Pelicans,104,Box Score,,17555,,16867,1.0
+35,543,2018-12-31,7:00p,Memphis Grizzlies,101,Houston Rockets,113,Box Score,,18055,,18055,1.0
+36,564,2019-01-03,10:30p,Houston Rockets,135,Golden State Warriors,134,Box Score,OT,19596,,18064,1.0
+37,581,2019-01-05,10:00p,Houston Rockets,101,Portland Trail Blazers,110,Box Score,,19577,,19441,1.0
+38,592,2019-01-07,8:00p,Denver Nuggets,113,Houston Rockets,125,Box Score,,18055,,18055,1.0
+39,609,2019-01-09,8:00p,Milwaukee Bucks,116,Houston Rockets,109,Box Score,,18055,,18055,1.0
+40,624,2019-01-11,8:00p,Cleveland Cavaliers,113,Houston Rockets,141,Box Score,,18055,,18055,1.0
+41,640,2019-01-13,6:00p,Houston Rockets,109,Orlando Magic,116,Box Score,,16982,,18846,0.9010930701475114
+42,645,2019-01-14,8:00p,Memphis Grizzlies,94,Houston Rockets,112,Box Score,,18055,,18055,1.0
+43,658,2019-01-16,8:00p,Brooklyn Nets,145,Houston Rockets,142,Box Score,OT,18055,,18055,1.0
+44,685,2019-01-19,8:30p,Los Angeles Lakers,134,Houston Rockets,138,Box Score,OT,18055,,18055,1.0
+45,698,2019-01-21,8:00p,Houston Rockets,93,Philadelphia 76ers,121,Box Score,,20313,,20478,0.9919425725168474
+46,709,2019-01-23,7:30p,Houston Rockets,114,New York Knicks,110,Box Score,,18819,,19812,0.9498788612961842
+47,723,2019-01-25,8:00p,Toronto Raptors,119,Houston Rockets,121,Box Score,,18055,,18055,1.0
+48,738,2019-01-27,7:00p,Orlando Magic,98,Houston Rockets,103,Box Score,,18055,,18055,1.0
+49,752,2019-01-29,8:00p,New Orleans Pelicans,121,Houston Rockets,116,Box Score,,18055,,18055,1.0
+50,773,2019-02-01,10:00p,Houston Rockets,122,Denver Nuggets,136,Box Score,,20106,,19520,1.0
+51,784,2019-02-02,9:00p,Houston Rockets,125,Utah Jazz,98,Box Score,,18306,,18306,1.0
+52,793,2019-02-04,9:00p,Houston Rockets,118,Phoenix Suns,110,Box Score,,15740,,18055,0.8717806701744669
+53,808,2019-02-06,10:00p,Houston Rockets,127,Sacramento Kings,101,Box Score,,17583,,17583,1.0
+54,831,2019-02-09,8:30p,Oklahoma City Thunder,117,Houston Rockets,112,Box Score,,18061,,18055,1.0
+55,843,2019-02-11,8:00p,Dallas Mavericks,104,Houston Rockets,120,Box Score,,18055,,18055,1.0
+56,858,2019-02-13,8:00p,Houston Rockets,111,Minnesota Timberwolves,121,Box Score,,15131,,18978,0.7972916008009274
+57,871,2019-02-21,10:30p,Houston Rockets,106,Los Angeles Lakers,111,Box Score,,18997,,18997,1.0
+58,890,2019-02-23,8:30p,Houston Rockets,118,Golden State Warriors,112,Box Score,,19596,,18064,1.0
+59,902,2019-02-25,8:00p,Atlanta Hawks,111,Houston Rockets,119,Box Score,,18055,,18055,1.0
+60,910,2019-02-27,7:00p,Houston Rockets,118,Charlotte Hornets,113,Box Score,,17903,,19077,0.9384599255648163
+61,924,2019-02-28,8:00p,Miami Heat,118,Houston Rockets,121,Box Score,,18119,,18055,1.0
+62,944,2019-03-03,3:30p,Houston Rockets,115,Boston Celtics,104,Box Score,,18624,,18624,1.0
+63,962,2019-03-05,8:00p,Houston Rockets,107,Toronto Raptors,95,Box Score,,19800,,19800,1.0
+64,979,2019-03-08,8:00p,Philadelphia 76ers,91,Houston Rockets,107,Box Score,,18055,,18055,1.0
+65,996,2019-03-10,7:00p,Houston Rockets,94,Dallas Mavericks,93,Box Score,,20423,,19200,1.0
+66,1003,2019-03-11,8:00p,Charlotte Hornets,106,Houston Rockets,118,Box Score,,18055,,18055,1.0
+67,1017,2019-03-13,9:30p,Golden State Warriors,106,Houston Rockets,104,Box Score,,18122,,18055,1.0
+68,1028,2019-03-15,8:00p,Phoenix Suns,102,Houston Rockets,108,Box Score,,18055,,18055,1.0
+69,1047,2019-03-17,9:00p,Minnesota Timberwolves,102,Houston Rockets,117,Box Score,,18055,,18055,1.0
+70,1059,2019-03-19,7:30p,Houston Rockets,121,Atlanta Hawks,105,Box Score,,16293,,18118,0.899271442764102
+71,1069,2019-03-20,8:00p,Houston Rockets,125,Memphis Grizzlies,126,Box Score,OT,16691,,17794,0.9380128133078566
+72,1083,2019-03-22,8:00p,San Antonio Spurs,105,Houston Rockets,111,Box Score,,18055,,18055,1.0
+73,1098,2019-03-24,7:00p,Houston Rockets,113,New Orleans Pelicans,90,Box Score,,17048,,16867,1.0
+74,1110,2019-03-26,8:00p,Houston Rockets,94,Milwaukee Bucks,108,Box Score,,17910,,17500,1.0
+75,1125,2019-03-28,8:00p,Denver Nuggets,85,Houston Rockets,112,Box Score,,18055,,18055,1.0
+76,1137,2019-03-30,6:00p,Sacramento Kings,108,Houston Rockets,119,Box Score,,18055,,18055,1.0
+77,1162,2019-04-02,10:00p,Houston Rockets,130,Sacramento Kings,105,Box Score,,17583,,17583,1.0
+78,1175,2019-04-03,10:30p,Houston Rockets,135,Los Angeles Clippers,103,Box Score,,17593,,19068,0.9226452695615691
+79,1182,2019-04-05,8:00p,New York Knicks,96,Houston Rockets,120,Box Score,,18055,,18055,1.0
+80,1200,2019-04-07,7:00p,Phoenix Suns,113,Houston Rockets,149,Box Score,,18055,,18055,1.0
+81,1217,2019-04-09,9:30p,Houston Rockets,111,Oklahoma City Thunder,112,Box Score,,18203,,18203,1.0

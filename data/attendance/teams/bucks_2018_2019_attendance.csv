@@ -1,0 +1,83 @@
+,index,Date,Start (ET),Visitor/Neutral,PTS,Home/Neutral,PTS.1,Unnamed: 6,Unnamed: 7,Attend.,Notes,Capacity,Attendance Ratio
+0,2,2018-10-17,7:00p,Milwaukee Bucks,113,Charlotte Hornets,112,Box Score,,17889,,19077,0.9377260575562195
+1,22,2018-10-19,8:30p,Indiana Pacers,101,Milwaukee Bucks,118,Box Score,,17341,,17500,0.9909142857142857
+2,41,2018-10-22,8:00p,New York Knicks,113,Milwaukee Bucks,124,Box Score,,16228,,17500,0.9273142857142858
+3,58,2018-10-24,9:30p,Philadelphia 76ers,108,Milwaukee Bucks,123,Box Score,,17341,,17500,0.9909142857142857
+4,70,2018-10-26,8:00p,Milwaukee Bucks,125,Minnesota Timberwolves,95,Box Score,,16334,,18978,0.8606807882811677
+5,80,2018-10-27,8:30p,Orlando Magic,91,Milwaukee Bucks,113,Box Score,,17341,,17500,0.9909142857142857
+6,91,2018-10-29,8:00p,Toronto Raptors,109,Milwaukee Bucks,124,Box Score,,17341,,17500,0.9909142857142857
+7,114,2018-11-01,8:00p,Milwaukee Bucks,113,Boston Celtics,117,Box Score,,18624,,18624,1.0
+8,132,2018-11-04,3:30p,Sacramento Kings,109,Milwaukee Bucks,144,Box Score,,17341,,17500,0.9909142857142857
+9,151,2018-11-06,10:00p,Milwaukee Bucks,103,Portland Trail Blazers,118,Box Score,,19512,,19441,1.0
+10,165,2018-11-08,10:30p,Milwaukee Bucks,134,Golden State Warriors,111,Box Score,,19596,,18064,1.0
+11,174,2018-11-10,3:30p,Milwaukee Bucks,126,Los Angeles Clippers,128,Box Score,OT,17486,,19068,0.9170337738619677
+12,186,2018-11-11,8:00p,Milwaukee Bucks,121,Denver Nuggets,114,Box Score,,19520,,19520,1.0
+13,206,2018-11-14,8:00p,Memphis Grizzlies,116,Milwaukee Bucks,113,Box Score,,16817,,17500,0.9609714285714286
+14,222,2018-11-16,9:30p,Chicago Bulls,104,Milwaukee Bucks,123,Box Score,,17341,,17500,0.9909142857142857
+15,244,2018-11-19,8:00p,Denver Nuggets,98,Milwaukee Bucks,104,Box Score,,17341,,17500,0.9909142857142857
+16,258,2018-11-21,8:00p,Portland Trail Blazers,100,Milwaukee Bucks,143,Box Score,,17591,,17500,1.0
+17,274,2018-11-23,8:30p,Phoenix Suns,116,Milwaukee Bucks,114,Box Score,,17852,,17500,1.0
+18,284,2018-11-24,8:30p,San Antonio Spurs,129,Milwaukee Bucks,135,Box Score,,17559,,17500,1.0
+19,293,2018-11-26,7:00p,Milwaukee Bucks,107,Charlotte Hornets,110,Box Score,,13805,,19077,0.7236462756198564
+20,309,2018-11-28,8:00p,Chicago Bulls,113,Milwaukee Bucks,116,Box Score,,16660,,17500,0.952
+21,329,2018-12-01,5:00p,Milwaukee Bucks,134,New York Knicks,136,Box Score,OT,19812,,19812,1.0
+22,359,2018-12-05,8:00p,Detroit Pistons,92,Milwaukee Bucks,115,Box Score,,16541,,17500,0.9452
+23,376,2018-12-07,9:30p,Golden State Warriors,105,Milwaukee Bucks,95,Box Score,,17852,,17500,1.0
+24,387,2018-12-09,6:00p,Milwaukee Bucks,104,Toronto Raptors,99,Box Score,,19800,,19800,1.0
+25,394,2018-12-10,8:00p,Cleveland Cavaliers,92,Milwaukee Bucks,108,Box Score,,17155,,17500,0.9802857142857143
+26,406,2018-12-12,7:00p,Milwaukee Bucks,97,Indiana Pacers,113,Box Score,,17070,,17923,0.9524075210623222
+27,422,2018-12-14,7:30p,Milwaukee Bucks,114,Cleveland Cavaliers,102,Box Score,,19432,,19432,1.0
+28,442,2018-12-17,7:00p,Milwaukee Bucks,107,Detroit Pistons,104,Box Score,,15051,,20332,0.7402616565020657
+29,461,2018-12-19,8:00p,New Orleans Pelicans,115,Milwaukee Bucks,123,Box Score,,17341,,17500,0.9909142857142857
+30,472,2018-12-21,8:00p,Milwaukee Bucks,120,Boston Celtics,107,Box Score,,18624,,18624,1.0
+31,482,2018-12-22,8:00p,Milwaukee Bucks,87,Miami Heat,94,Box Score,,19600,,19600,1.0
+32,496,2018-12-25,12:00p,Milwaukee Bucks,109,New York Knicks,95,Box Score,,19812,,19812,1.0
+33,512,2018-12-27,8:00p,New York Knicks,96,Milwaukee Bucks,112,Box Score,,18058,,17500,1.0
+34,526,2018-12-29,5:00p,Brooklyn Nets,115,Milwaukee Bucks,129,Box Score,,17918,,17500,1.0
+35,549,2019-01-01,8:00p,Detroit Pistons,98,Milwaukee Bucks,121,Box Score,,17534,,17500,1.0
+36,571,2019-01-04,8:30p,Atlanta Hawks,112,Milwaukee Bucks,144,Box Score,,17632,,17500,1.0
+37,579,2019-01-05,8:30p,Toronto Raptors,123,Milwaukee Bucks,116,Box Score,,18028,,17500,1.0
+38,593,2019-01-07,8:00p,Utah Jazz,102,Milwaukee Bucks,114,Box Score,,17341,,17500,0.9909142857142857
+39,609,2019-01-09,8:00p,Milwaukee Bucks,116,Houston Rockets,109,Box Score,,18055,,18055,1.0
+40,621,2019-01-11,7:00p,Milwaukee Bucks,106,Washington Wizards,113,Box Score,,17996,,20356,0.8840636667321674
+41,639,2019-01-13,3:30p,Milwaukee Bucks,133,Atlanta Hawks,114,Box Score,,16292,,18118,0.8992162490341097
+42,653,2019-01-15,8:00p,Miami Heat,86,Milwaukee Bucks,124,Box Score,,17626,,17500,1.0
+43,659,2019-01-16,8:00p,Milwaukee Bucks,111,Memphis Grizzlies,101,Box Score,,14921,,17794,0.8385410812633471
+44,681,2019-01-19,7:00p,Milwaukee Bucks,118,Orlando Magic,108,Box Score,,18846,,18846,1.0
+45,692,2019-01-21,2:00p,Dallas Mavericks,106,Milwaukee Bucks,116,Box Score,,17963,,17500,1.0
+46,726,2019-01-25,8:30p,Charlotte Hornets,99,Milwaukee Bucks,108,Box Score,,17803,,17500,1.0
+47,736,2019-01-27,6:00p,Milwaukee Bucks,112,Oklahoma City Thunder,118,Box Score,,18203,,18203,1.0
+48,749,2019-01-29,7:00p,Milwaukee Bucks,115,Detroit Pistons,105,Box Score,,14187,,20332,0.6977670666928979
+49,765,2019-01-31,8:00p,Milwaukee Bucks,105,Toronto Raptors,92,Box Score,,19800,,19800,1.0
+50,777,2019-02-02,7:00p,Milwaukee Bucks,131,Washington Wizards,115,Box Score,,20409,,20356,1.0
+51,791,2019-02-04,7:30p,Milwaukee Bucks,113,Brooklyn Nets,94,Box Score,,16209,,17732,0.9141100834649222
+52,805,2019-02-06,8:00p,Washington Wizards,129,Milwaukee Bucks,148,Box Score,,17360,,17500,0.992
+53,820,2019-02-08,8:30p,Milwaukee Bucks,122,Dallas Mavericks,107,Box Score,,20420,,19200,1.0
+54,832,2019-02-09,9:00p,Orlando Magic,103,Milwaukee Bucks,83,Box Score,,17812,,17500,1.0
+55,842,2019-02-11,8:00p,Milwaukee Bucks,112,Chicago Bulls,99,Box Score,,18833,,20917,0.9003681216235598
+56,853,2019-02-13,7:00p,Milwaukee Bucks,106,Indiana Pacers,97,Box Score,,17311,,17923,0.9658539307035653
+57,869,2019-02-21,8:00p,Boston Celtics,97,Milwaukee Bucks,98,Box Score,,17926,,17500,1.0
+58,891,2019-02-23,8:30p,Minnesota Timberwolves,128,Milwaukee Bucks,140,Box Score,,17972,,17500,1.0
+59,901,2019-02-25,8:00p,Milwaukee Bucks,117,Chicago Bulls,106,Box Score,,20936,,20917,1.0
+60,919,2019-02-27,10:00p,Milwaukee Bucks,141,Sacramento Kings,140,Box Score,OT,17583,,17583,1.0
+61,933,2019-03-01,10:30p,Milwaukee Bucks,131,Los Angeles Lakers,120,Box Score,,18997,,18997,1.0
+62,942,2019-03-02,9:00p,Milwaukee Bucks,111,Utah Jazz,115,Box Score,,18306,,18306,1.0
+63,954,2019-03-04,9:00p,Milwaukee Bucks,105,Phoenix Suns,114,Box Score,,18055,,18055,1.0
+64,974,2019-03-07,8:00p,Indiana Pacers,98,Milwaukee Bucks,117,Box Score,,17884,,17500,1.0
+65,989,2019-03-09,9:00p,Charlotte Hornets,114,Milwaukee Bucks,131,Box Score,,17996,,17500,1.0
+66,998,2019-03-10,8:00p,Milwaukee Bucks,114,San Antonio Spurs,121,Box Score,,18594,,18418,1.0
+67,1010,2019-03-12,8:00p,Milwaukee Bucks,130,New Orleans Pelicans,113,Box Score,,15562,,16867,0.9226299875496532
+68,1029,2019-03-15,8:00p,Milwaukee Bucks,113,Miami Heat,98,Box Score,,19600,,19600,1.0
+69,1043,2019-03-17,3:30p,Philadelphia 76ers,130,Milwaukee Bucks,125,Box Score,,18148,,17500,1.0
+70,1060,2019-03-19,8:00p,Los Angeles Lakers,101,Milwaukee Bucks,115,Box Score,,17879,,17500,1.0
+71,1064,2019-03-20,7:00p,Milwaukee Bucks,102,Cleveland Cavaliers,107,Box Score,,19432,,19432,1.0
+72,1084,2019-03-22,8:30p,Miami Heat,87,Milwaukee Bucks,116,Box Score,,18094,,17500,1.0
+73,1095,2019-03-24,4:30p,Cleveland Cavaliers,105,Milwaukee Bucks,127,Box Score,,17930,,17500,1.0
+74,1110,2019-03-26,8:00p,Houston Rockets,94,Milwaukee Bucks,108,Box Score,,17910,,17500,1.0
+75,1126,2019-03-28,8:00p,Los Angeles Clippers,118,Milwaukee Bucks,128,Box Score,,17922,,17500,1.0
+76,1144,2019-03-31,12:30p,Milwaukee Bucks,135,Atlanta Hawks,136,Box Score,OT,16660,,18118,0.9195275416712662
+77,1153,2019-04-01,7:30p,Milwaukee Bucks,131,Brooklyn Nets,121,Box Score,,17732,,17732,1.0
+78,1176,2019-04-04,8:00p,Milwaukee Bucks,128,Philadelphia 76ers,122,Box Score,,20701,,20478,1.0
+79,1192,2019-04-06,5:00p,Brooklyn Nets,133,Milwaukee Bucks,128,Box Score,,18116,,17500,1.0
+80,1201,2019-04-07,7:00p,Atlanta Hawks,107,Milwaukee Bucks,115,Box Score,,17775,,17500,1.0
+81,1223,2019-04-10,8:00p,Oklahoma City Thunder,127,Milwaukee Bucks,116,Box Score,,18082,,17500,1.0

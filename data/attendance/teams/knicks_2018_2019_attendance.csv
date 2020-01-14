@@ -1,0 +1,83 @@
+,index,Date,Start (ET),Visitor/Neutral,PTS,Home/Neutral,PTS.1,Unnamed: 6,Unnamed: 7,Attend.,Notes,Capacity,Attendance Ratio
+0,6,2018-10-17,7:30p,Atlanta Hawks,107,New York Knicks,126,Box Score,,18249,,19812,0.9211084191399153
+1,17,2018-10-19,7:30p,New York Knicks,105,Brooklyn Nets,107,Box Score,,17732,,17732,1.0
+2,27,2018-10-20,7:30p,Boston Celtics,103,New York Knicks,101,Box Score,,19427,,19812,0.9805673329295377
+3,41,2018-10-22,8:00p,New York Knicks,113,Milwaukee Bucks,124,Box Score,,16228,,17500,0.9273142857142858
+4,53,2018-10-24,7:30p,New York Knicks,87,Miami Heat,110,Box Score,,19600,,19600,1.0
+5,67,2018-10-26,7:30p,Golden State Warriors,128,New York Knicks,100,Box Score,,19812,,19812,1.0
+6,89,2018-10-29,7:30p,Brooklyn Nets,96,New York Knicks,115,Box Score,,19221,,19812,0.9701695941853422
+7,106,2018-10-31,8:00p,Indiana Pacers,107,New York Knicks,101,Box Score,,18295,,19812,0.923430244296386
+8,120,2018-11-02,8:30p,New York Knicks,118,Dallas Mavericks,106,Box Score,,20008,,19200,1.0
+9,134,2018-11-04,6:00p,New York Knicks,95,Washington Wizards,108,Box Score,,16679,,20356,0.8193652977009236
+10,142,2018-11-05,7:30p,Chicago Bulls,116,New York Knicks,115,Box Score,2OT,19812,,19812,1.0
+11,154,2018-11-07,7:30p,New York Knicks,112,Atlanta Hawks,107,Box Score,,12412,,18118,0.6850645766640909
+12,173,2018-11-10,3:00p,New York Knicks,112,Toronto Raptors,128,Box Score,,19800,,19800,1.0
+13,185,2018-11-11,7:30p,Orlando Magic,115,New York Knicks,89,Box Score,,19812,,19812,1.0
+14,208,2018-11-14,8:00p,New York Knicks,103,Oklahoma City Thunder,128,Box Score,,18203,,18203,1.0
+15,221,2018-11-16,8:00p,New York Knicks,124,New Orleans Pelicans,129,Box Score,,14717,,16867,0.8725321633959803
+16,235,2018-11-18,6:00p,New York Knicks,117,Orlando Magic,131,Box Score,,15898,,18846,0.843574233259047
+17,250,2018-11-20,7:30p,Portland Trail Blazers,118,New York Knicks,114,Box Score,,19812,,19812,1.0
+18,254,2018-11-21,7:30p,New York Knicks,117,Boston Celtics,109,Box Score,,18624,,18624,1.0
+19,268,2018-11-23,7:30p,New Orleans Pelicans,109,New York Knicks,114,Box Score,,18948,,19812,0.9563900666262871
+20,289,2018-11-25,6:00p,New York Knicks,103,Memphis Grizzlies,98,Box Score,,14331,,17794,0.8053838372485107
+21,300,2018-11-27,7:00p,New York Knicks,108,Detroit Pistons,115,Box Score,,13935,,20332,0.6853728113318907
+22,306,2018-11-28,7:00p,New York Knicks,91,Philadelphia 76ers,117,Box Score,,20274,,20478,0.9900380896571931
+23,329,2018-12-01,5:00p,Milwaukee Bucks,134,New York Knicks,136,Box Score,OT,19812,,19812,1.0
+24,345,2018-12-03,7:30p,Washington Wizards,110,New York Knicks,107,Box Score,,19440,,19812,0.9812235009085403
+25,364,2018-12-06,8:00p,New York Knicks,100,Boston Celtics,128,Box Score,,18624,,18624,1.0
+26,381,2018-12-08,7:30p,Brooklyn Nets,112,New York Knicks,104,Box Score,,18662,,19812,0.9419543710882293
+27,389,2018-12-09,7:30p,Charlotte Hornets,119,New York Knicks,107,Box Score,,18602,,19812,0.9389259034928327
+28,405,2018-12-12,7:00p,New York Knicks,106,Cleveland Cavaliers,113,Box Score,,19432,,19432,1.0
+29,420,2018-12-14,7:00p,New York Knicks,126,Charlotte Hornets,124,Box Score,OT,17622,,19077,0.9237301462494103
+30,437,2018-12-16,5:00p,New York Knicks,99,Indiana Pacers,110,Box Score,,16646,,17923,0.9287507671706745
+31,443,2018-12-17,7:30p,Phoenix Suns,128,New York Knicks,110,Box Score,,18437,,19812,0.9305976176054916
+32,456,2018-12-19,7:00p,New York Knicks,109,Philadelphia 76ers,131,Box Score,,20424,,20478,0.9973630237327864
+33,471,2018-12-21,7:30p,Atlanta Hawks,114,New York Knicks,107,Box Score,,19080,,19812,0.9630526953361599
+34,496,2018-12-25,12:00p,Milwaukee Bucks,109,New York Knicks,95,Box Score,,19812,,19812,1.0
+35,512,2018-12-27,8:00p,New York Knicks,96,Milwaukee Bucks,112,Box Score,,18058,,17500,1.0
+36,531,2018-12-29,8:00p,New York Knicks,97,Utah Jazz,129,Box Score,,18306,,18306,1.0
+37,550,2019-01-01,9:00p,New York Knicks,108,Denver Nuggets,115,Box Score,,19520,,19520,1.0
+38,573,2019-01-04,10:30p,New York Knicks,119,Los Angeles Lakers,112,Box Score,,18997,,18997,1.0
+39,596,2019-01-07,10:00p,New York Knicks,101,Portland Trail Blazers,111,Box Score,,19026,,19441,0.9786533614526002
+40,604,2019-01-08,10:30p,New York Knicks,95,Golden State Warriors,122,Box Score,,19596,,18064,1.0
+41,622,2019-01-11,7:30p,Indiana Pacers,121,New York Knicks,106,Box Score,,19812,,19812,1.0
+42,637,2019-01-13,1:00p,Philadelphia 76ers,108,New York Knicks,105,Box Score,,18596,,19812,0.9386230567332929
+43,664,2019-01-17,3:00p,New York Knicks,100,Washington Wizards,101,Box Score,,19078,"at London, England",20356,0.937217528001572
+44,690,2019-01-21,12:30p,Oklahoma City Thunder,127,New York Knicks,109,Box Score,,19493,,19812,0.9838986472844741
+45,709,2019-01-23,7:30p,Houston Rockets,114,New York Knicks,110,Box Score,,18819,,19812,0.9498788612961842
+46,720,2019-01-25,7:30p,New York Knicks,99,Brooklyn Nets,109,Box Score,,17033,,17732,0.9605797428378073
+47,741,2019-01-27,7:30p,Miami Heat,106,New York Knicks,97,Box Score,,18852,,19812,0.9515445184736523
+48,743,2019-01-28,7:00p,New York Knicks,92,Charlotte Hornets,101,Box Score,,13963,,19077,0.7319285002883053
+49,757,2019-01-30,7:30p,Dallas Mavericks,114,New York Knicks,90,Box Score,,18842,,19812,0.9510397738744195
+50,770,2019-02-01,7:30p,Boston Celtics,113,New York Knicks,99,Box Score,,18343,,19812,0.9258530183727034
+51,786,2019-02-03,1:00p,Memphis Grizzlies,96,New York Knicks,84,Box Score,,17025,,19812,0.8593276801938219
+52,798,2019-02-05,7:30p,Detroit Pistons,105,New York Knicks,92,Box Score,,17853,,19812,0.9011205330102968
+53,816,2019-02-08,7:00p,New York Knicks,103,Detroit Pistons,120,Box Score,,14430,,20332,0.7097186700767263
+54,827,2019-02-09,7:30p,Toronto Raptors,104,New York Knicks,99,Box Score,,18886,,19812,0.9532606501110438
+55,838,2019-02-11,7:00p,New York Knicks,104,Cleveland Cavaliers,107,Box Score,,19432,,19432,1.0
+56,855,2019-02-13,7:30p,Philadelphia 76ers,126,New York Knicks,111,Box Score,,18983,,19812,0.9581566727236018
+57,864,2019-02-14,7:30p,New York Knicks,106,Atlanta Hawks,91,Box Score,,14179,,18118,0.7825918975604371
+58,877,2019-02-22,7:30p,Minnesota Timberwolves,115,New York Knicks,104,Box Score,,19096,,19812,0.9638602866949324
+59,895,2019-02-24,7:30p,San Antonio Spurs,118,New York Knicks,130,Box Score,,18019,,19812,0.9094992933575611
+60,907,2019-02-26,7:30p,Orlando Magic,103,New York Knicks,108,Box Score,,17833,,19812,0.9001110438118313
+61,923,2019-02-28,7:30p,Cleveland Cavaliers,125,New York Knicks,118,Box Score,,17573,,19812,0.8869876842317788
+62,946,2019-03-03,3:30p,New York Knicks,107,Los Angeles Clippers,128,Box Score,,19068,,19068,1.0
+63,956,2019-03-04,10:00p,New York Knicks,108,Sacramento Kings,115,Box Score,,17034,,17583,0.9687766592731616
+64,971,2019-03-06,9:00p,New York Knicks,96,Phoenix Suns,107,Box Score,,14427,,18055,0.7990584325671559
+65,985,2019-03-09,12:00p,Sacramento Kings,102,New York Knicks,94,Box Score,,19812,,19812,1.0
+66,997,2019-03-10,8:00p,New York Knicks,92,Minnesota Timberwolves,103,Box Score,,13806,,18978,0.7274739171672463
+67,1006,2019-03-12,7:00p,New York Knicks,98,Indiana Pacers,103,Box Score,,16679,,17923,0.9305919767895999
+68,1031,2019-03-15,8:30p,New York Knicks,83,San Antonio Spurs,109,Box Score,,18354,,18418,0.9965251384515148
+69,1041,2019-03-17,12:00p,Los Angeles Lakers,123,New York Knicks,124,Box Score,,19812,,19812,1.0
+70,1052,2019-03-18,7:30p,New York Knicks,92,Toronto Raptors,128,Box Score,,19800,,19800,1.0
+71,1067,2019-03-20,7:30p,Utah Jazz,137,New York Knicks,116,Box Score,,18530,,19812,0.9352917423783565
+72,1081,2019-03-22,7:30p,Denver Nuggets,111,New York Knicks,93,Box Score,,19290,,19812,0.9736523319200484
+73,1094,2019-03-24,12:00p,Los Angeles Clippers,124,New York Knicks,113,Box Score,,18263,,19812,0.9218150615788411
+74,1124,2019-03-28,7:30p,Toronto Raptors,117,New York Knicks,92,Box Score,,19812,,19812,1.0
+75,1140,2019-03-30,7:30p,Miami Heat,100,New York Knicks,92,Box Score,,19812,,19812,1.0
+76,1154,2019-04-01,7:30p,Chicago Bulls,105,New York Knicks,113,Box Score,,18874,,19812,0.9526549565919644
+77,1165,2019-04-03,7:00p,New York Knicks,100,Orlando Magic,114,Box Score,,18846,,18846,1.0
+78,1182,2019-04-05,8:00p,New York Knicks,96,Houston Rockets,120,Box Score,,18055,,18055,1.0
+79,1203,2019-04-07,7:30p,Washington Wizards,110,New York Knicks,113,Box Score,,19812,,19812,1.0
+80,1212,2019-04-09,8:00p,New York Knicks,96,Chicago Bulls,86,Box Score,,21350,,20917,1.0
+81,1224,2019-04-10,8:00p,Detroit Pistons,115,New York Knicks,89,Box Score,,19812,,19812,1.0

@@ -1,0 +1,83 @@
+,index,Date,Start (ET),Visitor/Neutral,PTS,Home/Neutral,PTS.1,Unnamed: 6,Unnamed: 7,Attend.,Notes,Capacity,Attendance Ratio
+0,7,2018-10-17,7:30p,Cleveland Cavaliers,104,Toronto Raptors,116,Box Score,,19915,,19800,1.0
+1,21,2018-10-19,8:00p,Boston Celtics,101,Toronto Raptors,113,Box Score,,19800,,19800,1.0
+2,26,2018-10-20,7:00p,Toronto Raptors,117,Washington Wizards,113,Box Score,,16185,,20356,0.7950972686185891
+3,40,2018-10-22,7:30p,Charlotte Hornets,106,Toronto Raptors,127,Box Score,,19800,,19800,1.0
+4,54,2018-10-24,7:30p,Minnesota Timberwolves,105,Toronto Raptors,112,Box Score,,19800,,19800,1.0
+5,68,2018-10-26,7:30p,Dallas Mavericks,107,Toronto Raptors,116,Box Score,,19800,,19800,1.0
+6,91,2018-10-29,8:00p,Toronto Raptors,109,Milwaukee Bucks,124,Box Score,,17341,,17500,0.9909142857142857
+7,99,2018-10-30,7:30p,Philadelphia 76ers,112,Toronto Raptors,129,Box Score,,19800,,19800,1.0
+8,122,2018-11-02,10:00p,Toronto Raptors,107,Phoenix Suns,98,Box Score,,15843,,18055,0.8774854610911105
+9,138,2018-11-04,9:30p,Toronto Raptors,121,Los Angeles Lakers,107,Box Score,,18997,,18997,1.0
+10,145,2018-11-05,9:00p,Toronto Raptors,124,Utah Jazz,111,Box Score,,18306,,18306,1.0
+11,160,2018-11-07,10:00p,Toronto Raptors,114,Sacramento Kings,105,Box Score,,17583,,17583,1.0
+12,173,2018-11-10,3:00p,New York Knicks,112,Toronto Raptors,128,Box Score,,19800,,19800,1.0
+13,191,2018-11-12,7:30p,New Orleans Pelicans,126,Toronto Raptors,110,Box Score,,19800,,19800,1.0
+14,205,2018-11-14,7:30p,Detroit Pistons,106,Toronto Raptors,104,Box Score,,19800,,19800,1.0
+15,215,2018-11-16,7:00p,Toronto Raptors,116,Boston Celtics,123,Box Score,OT,18624,,18624,1.0
+16,229,2018-11-17,8:00p,Toronto Raptors,122,Chicago Bulls,83,Box Score,,21263,,20917,1.0
+17,247,2018-11-20,7:00p,Toronto Raptors,93,Orlando Magic,91,Box Score,,16016,,18846,0.8498355088612968
+18,253,2018-11-21,7:30p,Toronto Raptors,124,Atlanta Hawks,108,Box Score,,15058,,18118,0.831107186223645
+19,270,2018-11-23,7:30p,Washington Wizards,107,Toronto Raptors,125,Box Score,,19800,,19800,1.0
+20,290,2018-11-25,6:00p,Miami Heat,115,Toronto Raptors,125,Box Score,,19800,,19800,1.0
+21,302,2018-11-27,8:00p,Toronto Raptors,122,Memphis Grizzlies,114,Box Score,,14187,,17794,0.7972912217601439
+22,315,2018-11-29,8:00p,Golden State Warriors,128,Toronto Raptors,131,Box Score,OT,20073,,19800,1.0
+23,332,2018-12-01,8:00p,Toronto Raptors,106,Cleveland Cavaliers,95,Box Score,,19432,,19432,1.0
+24,346,2018-12-03,7:30p,Denver Nuggets,106,Toronto Raptors,103,Box Score,,19800,,19800,1.0
+25,362,2018-12-05,8:00p,Philadelphia 76ers,102,Toronto Raptors,113,Box Score,,19800,,19800,1.0
+26,370,2018-12-07,7:30p,Toronto Raptors,105,Brooklyn Nets,106,Box Score,OT,14035,,17732,0.7915068802165577
+27,387,2018-12-09,6:00p,Milwaukee Bucks,104,Toronto Raptors,99,Box Score,,19800,,19800,1.0
+28,403,2018-12-11,10:30p,Toronto Raptors,123,Los Angeles Clippers,99,Box Score,,17812,,19068,0.934130480385987
+29,414,2018-12-12,10:30p,Toronto Raptors,113,Golden State Warriors,93,Box Score,,19596,,18064,1.0
+30,426,2018-12-14,10:00p,Toronto Raptors,122,Portland Trail Blazers,128,Box Score,,19458,,19441,1.0
+31,441,2018-12-16,8:00p,Toronto Raptors,86,Denver Nuggets,95,Box Score,,19520,,19520,1.0
+32,458,2018-12-19,7:30p,Indiana Pacers,96,Toronto Raptors,99,Box Score,,19800,,19800,1.0
+33,469,2018-12-21,7:00p,Cleveland Cavaliers,110,Toronto Raptors,126,Box Score,,19800,,19800,1.0
+34,480,2018-12-22,7:30p,Toronto Raptors,101,Philadelphia 76ers,126,Box Score,,20691,,20478,1.0
+35,505,2018-12-26,7:30p,Toronto Raptors,106,Miami Heat,104,Box Score,,19902,,19600,1.0
+36,518,2018-12-28,7:00p,Toronto Raptors,87,Orlando Magic,116,Box Score,,18846,,18846,1.0
+37,537,2018-12-30,6:00p,Chicago Bulls,89,Toronto Raptors,95,Box Score,,19800,,19800,1.0
+38,548,2019-01-01,7:30p,Utah Jazz,116,Toronto Raptors,122,Box Score,,19800,,19800,1.0
+39,562,2019-01-03,8:00p,Toronto Raptors,107,San Antonio Spurs,125,Box Score,,18354,,18418,0.9965251384515148
+40,579,2019-01-05,8:30p,Toronto Raptors,123,Milwaukee Bucks,116,Box Score,,18028,,17500,1.0
+41,588,2019-01-06,7:30p,Indiana Pacers,105,Toronto Raptors,121,Box Score,,19800,,19800,1.0
+42,601,2019-01-08,7:30p,Atlanta Hawks,101,Toronto Raptors,104,Box Score,,19800,,19800,1.0
+43,623,2019-01-11,7:30p,Brooklyn Nets,105,Toronto Raptors,122,Box Score,,19800,,19800,1.0
+44,638,2019-01-13,1:00p,Toronto Raptors,140,Washington Wizards,138,Box Score,2OT,16919,,20356,0.8311554332874828
+45,657,2019-01-16,8:00p,Toronto Raptors,108,Boston Celtics,117,Box Score,,18624,,18624,1.0
+46,667,2019-01-17,7:30p,Phoenix Suns,109,Toronto Raptors,111,Box Score,,19800,,19800,1.0
+47,683,2019-01-19,7:30p,Memphis Grizzlies,90,Toronto Raptors,119,Box Score,,19800,,19800,1.0
+48,701,2019-01-22,7:00p,Sacramento Kings,105,Toronto Raptors,120,Box Score,,19800,,19800,1.0
+49,705,2019-01-23,7:00p,Toronto Raptors,106,Indiana Pacers,110,Box Score,,16879,,17923,0.9417508229649054
+50,723,2019-01-25,8:00p,Toronto Raptors,119,Houston Rockets,121,Box Score,,18055,,18055,1.0
+51,737,2019-01-27,7:00p,Toronto Raptors,123,Dallas Mavericks,120,Box Score,,20308,,19200,1.0
+52,765,2019-01-31,8:00p,Milwaukee Bucks,105,Toronto Raptors,92,Box Score,,19800,,19800,1.0
+53,788,2019-02-03,3:00p,Los Angeles Clippers,103,Toronto Raptors,121,Box Score,,19800,,19800,1.0
+54,801,2019-02-05,8:00p,Toronto Raptors,119,Philadelphia 76ers,107,Box Score,,20472,,20478,0.9997070026369763
+55,812,2019-02-07,7:30p,Toronto Raptors,119,Atlanta Hawks,101,Box Score,,16036,,18118,0.8850866541560879
+56,827,2019-02-09,7:30p,Toronto Raptors,104,New York Knicks,99,Box Score,,18886,,19812,0.9532606501110438
+57,841,2019-02-11,7:30p,Brooklyn Nets,125,Toronto Raptors,127,Box Score,,19800,,19800,1.0
+58,856,2019-02-13,7:30p,Washington Wizards,120,Toronto Raptors,129,Box Score,,19800,,19800,1.0
+59,875,2019-02-22,7:00p,San Antonio Spurs,117,Toronto Raptors,120,Box Score,,20058,,19800,1.0
+60,893,2019-02-24,3:30p,Orlando Magic,113,Toronto Raptors,98,Box Score,,19800,,19800,1.0
+61,908,2019-02-26,8:00p,Boston Celtics,95,Toronto Raptors,118,Box Score,,19800,,19800,1.0
+62,930,2019-03-01,8:00p,Portland Trail Blazers,117,Toronto Raptors,119,Box Score,,19800,,19800,1.0
+63,948,2019-03-03,6:00p,Toronto Raptors,107,Detroit Pistons,112,Box Score,OT,19161,,20332,0.942406059413732
+64,962,2019-03-05,8:00p,Houston Rockets,107,Toronto Raptors,95,Box Score,,19800,,19800,1.0
+65,982,2019-03-08,8:00p,Toronto Raptors,127,New Orleans Pelicans,104,Box Score,,17325,,16867,1.0
+66,992,2019-03-10,3:30p,Toronto Raptors,125,Miami Heat,104,Box Score,,19600,,19600,1.0
+67,1000,2019-03-11,7:00p,Toronto Raptors,101,Cleveland Cavaliers,126,Box Score,,19432,,19432,1.0
+68,1022,2019-03-14,8:00p,Los Angeles Lakers,98,Toronto Raptors,111,Box Score,,19962,,19800,1.0
+69,1044,2019-03-17,4:00p,Toronto Raptors,107,Detroit Pistons,110,Box Score,,19277,,20332,0.948111351564037
+70,1052,2019-03-18,7:30p,New York Knicks,92,Toronto Raptors,128,Box Score,,19800,,19800,1.0
+71,1071,2019-03-20,9:30p,Toronto Raptors,123,Oklahoma City Thunder,114,Box Score,OT,18203,,18203,1.0
+72,1082,2019-03-22,7:30p,Oklahoma City Thunder,116,Toronto Raptors,109,Box Score,,20014,,19800,1.0
+73,1097,2019-03-24,6:00p,Charlotte Hornets,115,Toronto Raptors,114,Box Score,,19800,,19800,1.0
+74,1109,2019-03-26,7:30p,Chicago Bulls,103,Toronto Raptors,112,Box Score,,19800,,19800,1.0
+75,1124,2019-03-28,7:30p,Toronto Raptors,117,New York Knicks,92,Box Score,,19812,,19812,1.0
+76,1141,2019-03-30,8:00p,Toronto Raptors,124,Chicago Bulls,101,Box Score,,21238,,20917,1.0
+77,1155,2019-04-01,7:30p,Orlando Magic,109,Toronto Raptors,121,Box Score,,19800,,19800,1.0
+78,1168,2019-04-03,7:30p,Toronto Raptors,115,Brooklyn Nets,105,Box Score,,17732,,17732,1.0
+79,1179,2019-04-05,7:00p,Toronto Raptors,111,Charlotte Hornets,113,Box Score,,18684,,19077,0.97939927661582
+80,1194,2019-04-07,12:00p,Miami Heat,109,Toronto Raptors,117,Box Score,OT,19800,,19800,1.0
+81,1213,2019-04-09,8:00p,Toronto Raptors,120,Minnesota Timberwolves,100,Box Score,,16119,,18978,0.8493518811255137

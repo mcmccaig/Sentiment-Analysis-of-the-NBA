@@ -1,0 +1,83 @@
+,index,Date,Start (ET),Visitor/Neutral,PTS,Home/Neutral,PTS.1,Unnamed: 6,Unnamed: 7,Attend.,Notes,Capacity,Attendance Ratio
+0,15,2018-10-18,10:30p,Los Angeles Lakers,119,Portland Trail Blazers,128,Box Score,,19996,,19441,1.0
+1,34,2018-10-20,10:30p,Houston Rockets,124,Los Angeles Lakers,115,Box Score,,18997,,18997,1.0
+2,47,2018-10-22,10:30p,San Antonio Spurs,143,Los Angeles Lakers,142,Box Score,OT,18997,,18997,1.0
+3,59,2018-10-24,10:00p,Los Angeles Lakers,131,Phoenix Suns,113,Box Score,,18055,,18055,1.0
+4,65,2018-10-25,10:30p,Denver Nuggets,114,Los Angeles Lakers,121,Box Score,,18997,,18997,1.0
+5,81,2018-10-27,8:30p,Los Angeles Lakers,106,San Antonio Spurs,110,Box Score,,18589,,18418,1.0
+6,92,2018-10-29,8:00p,Los Angeles Lakers,120,Minnesota Timberwolves,124,Box Score,,18978,,18978,1.0
+7,108,2018-10-31,10:30p,Dallas Mavericks,113,Los Angeles Lakers,114,Box Score,,18997,,18997,1.0
+8,131,2018-11-03,10:00p,Los Angeles Lakers,114,Portland Trail Blazers,110,Box Score,,19848,,19441,1.0
+9,138,2018-11-04,9:30p,Toronto Raptors,121,Los Angeles Lakers,107,Box Score,,18997,,18997,1.0
+10,161,2018-11-07,10:30p,Minnesota Timberwolves,110,Los Angeles Lakers,114,Box Score,,18997,,18997,1.0
+11,182,2018-11-10,10:00p,Los Angeles Lakers,101,Sacramento Kings,86,Box Score,,17583,,17583,1.0
+12,188,2018-11-11,9:30p,Atlanta Hawks,106,Los Angeles Lakers,107,Box Score,,18997,,18997,1.0
+13,211,2018-11-14,10:30p,Portland Trail Blazers,117,Los Angeles Lakers,126,Box Score,,18997,,18997,1.0
+14,227,2018-11-17,7:00p,Los Angeles Lakers,117,Orlando Magic,130,Box Score,,19249,,18846,1.0
+15,234,2018-11-18,6:00p,Los Angeles Lakers,113,Miami Heat,97,Box Score,,19686,,19600,1.0
+16,256,2018-11-21,8:00p,Los Angeles Lakers,109,Cleveland Cavaliers,105,Box Score,,19432,,19432,1.0
+17,277,2018-11-23,10:30p,Utah Jazz,83,Los Angeles Lakers,90,Box Score,,18997,,18997,1.0
+18,285,2018-11-25,3:30p,Orlando Magic,108,Los Angeles Lakers,104,Box Score,,18997,,18997,1.0
+19,303,2018-11-27,9:00p,Los Angeles Lakers,85,Denver Nuggets,117,Box Score,,19583,,19520,1.0
+20,316,2018-11-29,10:30p,Indiana Pacers,96,Los Angeles Lakers,104,Box Score,,18997,,18997,1.0
+21,327,2018-11-30,10:30p,Dallas Mavericks,103,Los Angeles Lakers,114,Box Score,,18997,,18997,1.0
+22,336,2018-12-02,3:30p,Phoenix Suns,96,Los Angeles Lakers,120,Box Score,,18997,,18997,1.0
+23,363,2018-12-05,10:30p,San Antonio Spurs,113,Los Angeles Lakers,121,Box Score,,18997,,18997,1.0
+24,374,2018-12-07,8:30p,Los Angeles Lakers,120,San Antonio Spurs,133,Box Score,,18354,,18418,0.9965251384515148
+25,383,2018-12-08,8:00p,Los Angeles Lakers,111,Memphis Grizzlies,88,Box Score,,17794,,17794,1.0
+26,400,2018-12-10,10:30p,Miami Heat,105,Los Angeles Lakers,108,Box Score,,18997,,18997,1.0
+27,415,2018-12-13,8:00p,Los Angeles Lakers,111,Houston Rockets,126,Box Score,,18055,,18055,1.0
+28,429,2018-12-15,7:00p,Los Angeles Lakers,128,Charlotte Hornets,100,Box Score,,19641,,19077,1.0
+29,438,2018-12-16,6:00p,Los Angeles Lakers,110,Washington Wizards,128,Box Score,,20409,,20356,1.0
+30,452,2018-12-18,7:30p,Los Angeles Lakers,110,Brooklyn Nets,115,Box Score,,17732,,17732,1.0
+31,477,2018-12-21,10:30p,New Orleans Pelicans,104,Los Angeles Lakers,112,Box Score,,18997,,18997,1.0
+32,495,2018-12-23,9:30p,Memphis Grizzlies,107,Los Angeles Lakers,99,Box Score,,18997,,18997,1.0
+33,499,2018-12-25,8:00p,Los Angeles Lakers,127,Golden State Warriors,101,Box Score,,19596,,18064,1.0
+34,513,2018-12-27,10:00p,Los Angeles Lakers,116,Sacramento Kings,117,Box Score,,17583,,17583,1.0
+35,525,2018-12-28,10:30p,Los Angeles Clippers,118,Los Angeles Lakers,107,Box Score,,18997,,18997,1.0
+36,540,2018-12-30,9:30p,Sacramento Kings,114,Los Angeles Lakers,121,Box Score,,18997,,18997,1.0
+37,561,2019-01-02,10:30p,Oklahoma City Thunder,107,Los Angeles Lakers,100,Box Score,,18997,,18997,1.0
+38,573,2019-01-04,10:30p,New York Knicks,119,Los Angeles Lakers,112,Box Score,,18997,,18997,1.0
+39,585,2019-01-06,3:30p,Los Angeles Lakers,86,Minnesota Timberwolves,108,Box Score,,18978,,18978,1.0
+40,595,2019-01-07,8:30p,Los Angeles Lakers,107,Dallas Mavericks,97,Box Score,,20354,,19200,1.0
+41,615,2019-01-09,10:30p,Detroit Pistons,100,Los Angeles Lakers,113,Box Score,,18997,,18997,1.0
+42,627,2019-01-11,10:00p,Los Angeles Lakers,95,Utah Jazz,113,Box Score,,18306,,18306,1.0
+43,643,2019-01-13,9:30p,Cleveland Cavaliers,101,Los Angeles Lakers,95,Box Score,,18997,,18997,1.0
+44,655,2019-01-15,10:30p,Chicago Bulls,100,Los Angeles Lakers,107,Box Score,,18997,,18997,1.0
+45,669,2019-01-17,9:30p,Los Angeles Lakers,138,Oklahoma City Thunder,128,Box Score,OT,18203,,18203,1.0
+46,685,2019-01-19,8:30p,Los Angeles Lakers,134,Houston Rockets,138,Box Score,OT,18055,,18055,1.0
+47,700,2019-01-21,10:30p,Golden State Warriors,130,Los Angeles Lakers,111,Box Score,,18997,,18997,1.0
+48,718,2019-01-24,10:30p,Minnesota Timberwolves,120,Los Angeles Lakers,105,Box Score,,18997,,18997,1.0
+49,742,2019-01-27,9:30p,Phoenix Suns,102,Los Angeles Lakers,116,Box Score,,18997,,18997,1.0
+50,754,2019-01-29,10:30p,Philadelphia 76ers,121,Los Angeles Lakers,105,Box Score,,18997,,18997,1.0
+51,768,2019-01-31,10:30p,Los Angeles Lakers,123,Los Angeles Clippers,120,Box Score,OT,19068,,19068,1.0
+52,780,2019-02-02,8:30p,Los Angeles Lakers,101,Golden State Warriors,115,Box Score,,19596,,18064,1.0
+53,797,2019-02-05,7:00p,Los Angeles Lakers,94,Indiana Pacers,136,Box Score,,17265,,17923,0.963287396083245
+54,813,2019-02-07,8:00p,Los Angeles Lakers,129,Boston Celtics,128,Box Score,,18624,,18624,1.0
+55,834,2019-02-10,3:30p,Los Angeles Lakers,120,Philadelphia 76ers,143,Box Score,,20683,,20478,1.0
+56,847,2019-02-12,7:30p,Los Angeles Lakers,113,Atlanta Hawks,117,Box Score,,16824,,18118,0.9285793133899989
+57,871,2019-02-21,10:30p,Houston Rockets,106,Los Angeles Lakers,111,Box Score,,18997,,18997,1.0
+58,885,2019-02-23,7:00p,Los Angeles Lakers,115,New Orleans Pelicans,128,Box Score,,18626,,16867,1.0
+59,903,2019-02-25,8:00p,Los Angeles Lakers,105,Memphis Grizzlies,110,Box Score,,17794,,17794,1.0
+60,920,2019-02-27,10:30p,New Orleans Pelicans,119,Los Angeles Lakers,125,Box Score,,18997,,18997,1.0
+61,933,2019-03-01,10:30p,Milwaukee Bucks,131,Los Angeles Lakers,120,Box Score,,18997,,18997,1.0
+62,941,2019-03-02,9:00p,Los Angeles Lakers,109,Phoenix Suns,118,Box Score,,18055,,18055,1.0
+63,957,2019-03-04,10:30p,Los Angeles Clippers,113,Los Angeles Lakers,105,Box Score,,18997,,18997,1.0
+64,973,2019-03-06,10:30p,Denver Nuggets,115,Los Angeles Lakers,99,Box Score,,18997,,18997,1.0
+65,988,2019-03-09,8:30p,Boston Celtics,120,Los Angeles Lakers,107,Box Score,,18997,,18997,1.0
+66,1008,2019-03-12,8:00p,Los Angeles Lakers,123,Chicago Bulls,107,Box Score,,21359,,20917,1.0
+67,1022,2019-03-14,8:00p,Los Angeles Lakers,98,Toronto Raptors,111,Box Score,,19962,,19800,1.0
+68,1025,2019-03-15,7:00p,Los Angeles Lakers,97,Detroit Pistons,111,Box Score,,20768,,20332,1.0
+69,1041,2019-03-17,12:00p,Los Angeles Lakers,123,New York Knicks,124,Box Score,,19812,,19812,1.0
+70,1060,2019-03-19,8:00p,Los Angeles Lakers,101,Milwaukee Bucks,115,Box Score,,17879,,17500,1.0
+71,1085,2019-03-22,10:30p,Brooklyn Nets,111,Los Angeles Lakers,106,Box Score,,18997,,18997,1.0
+72,1101,2019-03-24,9:30p,Sacramento Kings,106,Los Angeles Lakers,111,Box Score,,18997,,18997,1.0
+73,1115,2019-03-26,10:30p,Washington Wizards,106,Los Angeles Lakers,124,Box Score,,18997,,18997,1.0
+74,1120,2019-03-27,10:30p,Los Angeles Lakers,100,Utah Jazz,115,Box Score,,18306,,18306,1.0
+75,1134,2019-03-29,10:30p,Charlotte Hornets,115,Los Angeles Lakers,129,Box Score,,18997,,18997,1.0
+76,1146,2019-03-31,6:00p,Los Angeles Lakers,130,New Orleans Pelicans,102,Box Score,,18562,,16867,1.0
+77,1160,2019-04-02,8:00p,Los Angeles Lakers,103,Oklahoma City Thunder,119,Box Score,,18203,,18203,1.0
+78,1178,2019-04-04,10:30p,Golden State Warriors,108,Los Angeles Lakers,90,Box Score,,18997,,18997,1.0
+79,1191,2019-04-05,10:30p,Los Angeles Lakers,122,Los Angeles Clippers,117,Box Score,,17910,,19068,0.9392699811202014
+80,1207,2019-04-07,9:30p,Utah Jazz,109,Los Angeles Lakers,113,Box Score,,18997,,18997,1.0
+81,1218,2019-04-09,10:30p,Portland Trail Blazers,104,Los Angeles Lakers,101,Box Score,,18997,,18997,1.0
