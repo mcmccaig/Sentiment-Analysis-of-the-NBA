@@ -60,7 +60,7 @@ Two models were fitted for the Sentiment Analysis:
 2. Recurrent Neural Network using pre-trained GloVe Embeddings
 
 ## Analysis
-
+Final Report can be found here: [[Link](https://github.com/mcmccaig/Sentiment-Analysis-of-the-NBA/blob/master/Final%20Report.pdf)]
 
 ## Acknowledgements
 Thank you to instructors and mentors Aaron Quinton and Boris Shabash of BrainStation, who provided hours of guidance and assistance in this analysis.
