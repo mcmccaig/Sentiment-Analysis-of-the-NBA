@@ -44,6 +44,9 @@ Python
 - gensim
 ```
 
+## Scripts
+Scripts are provided to scrape the datasets from the web. Can be found here [[Link](https://github.com/mcmccaig/Sentiment-Analysis-of-the-NBA/tree/master/Scripts)]
+
 ## Datasets
 #### Tweets
 Each team's tweet dataset was taken from Twitter using the GetOldTweets3 library. Search queries for the tweets gathered consisted of the team, and the top three players of each team. Tweets were only taken from cities with an NBA team and tweets were taken only during the 2018-2019 regular season (October 2018 - April 2019).
