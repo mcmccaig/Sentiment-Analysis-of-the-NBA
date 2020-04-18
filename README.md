@@ -45,7 +45,7 @@ Python
 ```
 
 ## Scripts
-Scripts are provided to scrape the datasets from the web. Can be found here [[Link](https://github.com/mcmccaig/Sentiment-Analysis-of-the-NBA/tree/master/Scripts)]
+Scripts are provided to scrape and clean the datasets from the web. Can be found here [[Link](https://github.com/mcmccaig/Sentiment-Analysis-of-the-NBA/tree/master/Scripts)]
 
 ## Datasets
 #### Tweets
